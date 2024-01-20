@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vchennuru20
+- 👋 Hi, I’m Venkatesh - @vchennuru20
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Peer programming
