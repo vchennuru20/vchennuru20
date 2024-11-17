@@ -1,7 +1,5 @@
 <h1 align="center">Hi👋, I'm Venkatesh Chennuru</h1>
-<h3 align="center">Aspiring Full Stack Web Developer | Salesforce Marketing Cloud Developer at TCS from Bengaluru.</h3>
-
-- 🌱 I’m currently learning **Full Stack Web Development**
+<h3 align="center">Frontend Developer at TCS from Bengaluru.</h3>
 
 - 📫 How to reach me **eshvenkat2000@gmail.com**
 
